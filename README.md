@@ -4,7 +4,7 @@ The project structure is defined below:
 ## Web
 Contains a web api controller (`/MarketAuction`) with two routes
 - `/` get all the information available in the mock api response
-- `marketAuctionValue?id={id}&year={year}` get the market/auction value for an specific id and year
+- `/marketAuctionValue?id={id}&year={year}` get the market/auction value for an specific id and year
 
 
 ## Core
