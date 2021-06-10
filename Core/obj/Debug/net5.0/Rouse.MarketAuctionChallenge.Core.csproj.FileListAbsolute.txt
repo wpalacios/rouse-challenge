@@ -1,0 +1,15 @@
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/bin/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.deps.json
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/bin/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.runtimeconfig.json
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/bin/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.runtimeconfig.dev.json
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/bin/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.dll
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/bin/Debug/net5.0/ref/Rouse.MarketAuctionChallenge.Core.dll
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/bin/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.pdb
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.csproj.AssemblyReference.cache
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.AssemblyInfoInputs.cache
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.AssemblyInfo.cs
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.csproj.CoreCompileInputs.cache
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.dll
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/ref/Rouse.MarketAuctionChallenge.Core.dll
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.pdb
+/Users/williampalacios/workspace/personal/rouse/Rouse.MarketAuctionChallenge/Core/obj/Debug/net5.0/Rouse.MarketAuctionChallenge.Core.genruntimeconfig.cache
