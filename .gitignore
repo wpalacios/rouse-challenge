@@ -1,0 +1,6 @@
+Web/bin/**/*
+Web/obj/**/*
+Core/bin/**/*
+Core/obj/**/*
+Tests/bin/**/*
+Tests/obj/**/*
